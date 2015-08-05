@@ -31,3 +31,9 @@ e.g.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add New Slider from Menu named `Gallery`
 4. Add shortcode [singsys_gallery id="{gallery-id}"]
+
+
+== Screenshot ==
+1. Your gallery looks like the above.
+2. How to add/update gallery?
+3. Shortcode for your gallery.
