@@ -1,0 +1,98 @@
+.singsys_slider_container{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.sys_close {
+  cursor: pointer;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  border-radius: 100%;
+  padding: 3px;
+}
+.singsys_wrap{
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.singsys_content{
+    width: 70%;
+    float: left;
+    height: auto;
+    min-height: 100px;
+   /* background: #fff;*/
+    
+}
+.singsys_content .sys_content{margin-bottom: 15px;}
+.singsys_settings{
+    width:25%;
+    float: right;
+    height: auto;
+    min-height: 100px;
+}
+.option_wrap{
+    border: 1px solid rgb(238, 238, 238);
+   /* background: #fff;*/
+   margin-bottom: 15px;
+}
+.sys_content{
+    padding: 5px 7px;
+    /*margin-bottom: 10px;*/
+    position: relative;
+    background: #fff;
+}
+.clr{
+    clear: both;
+}
+.pull-right{
+    float: right !important;
+}
+.pull-left{
+    float: left !important;
+}
+.img_wrap{
+    width: 25%;
+    float: left;
+}
+.img_wrap img{
+    width: 100%;
+    max-width: 150px;
+    float: left;
+    padding: 7px;
+    border: 1px solid #ccc;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.img_field {
+  float: left;
+  width: 75%;
+}
+.sys-cl-30{
+    width: 30%;;
+    display: block;
+    float: left;
+}
+.img_field input[type="text"],.img_field textarea{
+    width: 95%;
+}
+.img_field textarea{
+    height: 42px;
+}
+.img_field ul{
+    margin: 0;
+}
+.singsys_slider_container input[type=text],.singsys_slider_container input[type=url],.singsys_slider_container textarea{
+    max-width: 100%;
+   
+}
+.option_list label{
+    width: 100%;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+}
+.option_list input[type=text],.option_list input[type=number],.option_list input[type=url],.option_list select{
+    width: 100%;
+    
+}
