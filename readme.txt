@@ -1,4 +1,4 @@
-=== Singsys Awesome Gallery - Singsys ===
+=== Singsys -Awesome Gallery ===
 Contributors: info@singsys.com
 Donate link: http://www.plugin.singsys.com/singsys-responsive-slider/
 Tags: gallery, awesome gallery, responsive gallery
