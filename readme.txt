@@ -18,8 +18,8 @@ Singsys Awesome Gallery - is powered by Singsys Software Services Pte Ltd
 
 == Features ==
 
-*   Fully responsive gallery.
-*   No matter what size of images will be uploaded because images of any height & width will be adjusted with each adjacent blank space and that's why it looks better.
+* Fully responsive gallery.
+* No matter what size of images will be uploaded because images of any height & width will be adjusted with each adjacent blank space and that's why it looks better.
 
 
 == Installation ==
